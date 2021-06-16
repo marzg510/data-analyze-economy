@@ -8,12 +8,17 @@
 
 
 ### Japan
+
+- 経済産業省の統計資料
+  - <https://www.meti.go.jp/statistics/index.html>
 - 経済活動別（産業別）GDPを参照したい 
   - <https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/qa8.html>
   - <https://www.esri.cao.go.jp/jp/sna/data/data_list/kakuhou/files/2019/2019_kaku_top.html>
     - 2019fcm3dn_jp.xlsx  : デフレーター
     - 2019fcm3n_jp.xlsx   : 名目
     - 2019fcm3rn_jp.xlsx  : 実質
+- 日本取引所グループ
+  - https://www.jpx.co.jp/
 
 ## submodules
 git submodule add git@github.com:marzg510/data-analyze-population.git population
