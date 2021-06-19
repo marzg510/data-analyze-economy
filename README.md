@@ -19,7 +19,20 @@
     - 2019fcm3rn_jp.xlsx  : 実質
 - 日本取引所グループ
   - https://www.jpx.co.jp/
-
+- 財務省
+  - 毎年度の予算・決算
+    - <https://www.mof.go.jp/policy/budget/budger_workflow/index.html>
+- 総務省
+  - 白書（地方財政白書、情報通信白書、etc)
+    - <https://www.soumu.go.jp/menu_seisaku/hakusyo/index.html>
+- 内閣府
+  - 統計
+    - <https://www.cao.go.jp/statistics/index.html>
+  - 景気統計
+    - <https://www.esri.cao.go.jp/jp/stat/menu.html>
+- 日本銀行
+  - 金融経済統計月報
+    - <https://www.boj.or.jp/statistics/pub/sk/index.htm/>
 ## submodules
 git submodule add git@github.com:marzg510/data-analyze-population.git population
 
